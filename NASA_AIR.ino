@@ -64,7 +64,7 @@ void setup()
   Serial.println(" connected");
 
   server.begin();
-  Serial.printf("Web server started, open %s in a web browser\n", WiFi.localIP().toString().c_str());
+  Serial.printf("Web server started, open %s in a web browser\n", WiFi.localIP().toString().c_str()); // Print IP in serial moinitor
 
 
 }
