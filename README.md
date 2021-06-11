@@ -9,6 +9,7 @@ Mobile-AQI-Device is a NODEMCU ESP32 based Air Quality Index device developed du
 
    <img src="./images/MAQI_Top.jpeg" width="40%" height="40%" />
 </div>
+
 ## Components Used
 
 1. NODEMCU ESP32
