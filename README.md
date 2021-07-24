@@ -1,4 +1,4 @@
-# Mobile-AQI-Device
+1# Mobile-AQI-Device
 
 Mobile-AQI-Device is a NODEMCU ESP32 based Air Quality Index device developed during <a href="https://2019.spaceappschallenge.org/challenges/living-our-world/surface-air-quality-mission/details"> Space Apps Challenge | 2019 </a> under Surface air quality mission.
 
@@ -13,13 +13,13 @@ Mobile-AQI-Device is a NODEMCU ESP32 based Air Quality Index device developed du
 ## Components Used
 
 1. NODEMCU ESP32
-2. Dust Sensor Module - GP2Y1010AU0F
-3. Seven-Segment Display
-4. Piezo Buzzer
-5. Bread Board
-6. Powerbank
-7. Polar Capacitor 220 µF
-8. Resistor 150 Ω
+1. Dust Sensor Module - GP2Y1010AU0F
+1. Seven-Segment Display
+1. Piezo Buzzer
+1. Bread Board
+1. Powerbank
+1. Polar Capacitor 220 µF
+1. Resistor 150 Ω
 
 ## Working
 
